@@ -26,35 +26,43 @@ I enjoy building systems that combine:
 
 # 💻 Tech Stack
 
-## Programming Languages
-- Python
-- C++
-- C
-- SQL
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Robotics & Embedded
-- ROS2
-- ESP32
-- Arduino
-- Sensor Integration
-- Embedded Systems
+---
 
-## Cloud & DevOps
-- AWS
-- Linux
-- GitHub
-- REST APIs
-- Automation Scripting
+### Robotics & Embedded
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A192F?style=for-the-badge)
+![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-4CAF50?style=for-the-badge)
 
-## Databases & Data
-- PostgreSQL
-- Snowflake
-- Pandas
+---
 
-## CAD & Design
-- SolidWorks
-- CATIA
-- Blender
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-FF9800?style=for-the-badge)
+
+---
+
+### Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### CAD & Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
