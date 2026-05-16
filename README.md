@@ -62,6 +62,8 @@ I enjoy building systems that combine:
 
 ### CAD & Design
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6A00?style=for-the-badge&logo=mathworks&logoColor=white)
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
@@ -88,6 +90,7 @@ Building systems using:
 
 # 📚 Currently Learning
 
+- Image Processing
 - Advanced ROS2 architecture
 - Robot perception systems
 - Autonomous navigation
